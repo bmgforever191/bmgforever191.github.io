@@ -1,0 +1,15 @@
+EARN YOUR DOOMSCROLL – VOR DER OEFFENTLICHEN WEBSITE-FREISCHALTUNG
+
+Die Website enthaelt eine Datenschutz-Unterseite und ein Impressum als Entwuerfe.
+Vor dem oeffentlichen Hosting und vor dem Eintragen der Datenschutz-URL in Google Play:
+
+1. impressum/index.html: vollstaendigen Namen, ladungsfaehige Anschrift, Kontakt und ggf. weitere gesetzlich erforderliche Angaben einsetzen.
+2. datenschutz/index.html: Namen, Kontakt, konkrete Hosting-/E-Mail-Daten, tatsaechliche App-Datenverarbeitung und Speicherfristen vervollstaendigen.
+3. Datenangaben mit dem finalen APK/AAB und der Play-Console-Datensicherheit vergleichen. Drittanbieter-Bibliotheken und Android-Backups pruefen.
+4. Entwurfsbanner und Platzhalter nach der Pruefung entfernen, noindex nur dann entfernen, wenn der Text final ist.
+5. js/config.js: echte Google-Group- und Play-Testlinks, ggf. Kontaktadresse eintragen.
+6. In den App-Screenshots auf persoenliche/sensible Inhalte achten.
+7. Website, Impressum und Datenschutz im Browser auf Mobilgeraeten pruefen.
+
+Die URL fuer die Datenschutzseite im neuen GitHub Pages Repo lautet nach Aktivierung voraussichtlich:
+https://bmgforever191.github.io/datenschutz/
