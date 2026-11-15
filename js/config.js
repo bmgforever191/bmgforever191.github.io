@@ -5,7 +5,7 @@
  * Diese Datei ist auf einer öffentlichen Website für jeden sichtbar.
  */
 window.EYD_CONFIG = Object.freeze({
-  groupUrl: 'https://groups.google.com/g/DEIN-GRUPPENNAME',
+  groupUrl: 'https://groups.google.com/g/earnyourdoomscroll-tester/',
   playTestUrl: 'https://play.google.com/apps/testing/com.earnyourdoomscroll',
   contactEmail: 'support@earnyourdoomscroll.de',
 });
