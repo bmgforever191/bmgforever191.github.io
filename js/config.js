@@ -5,7 +5,7 @@
  * Diese Datei ist auf einer öffentlichen Website für jeden sichtbar.
  */
 window.EYD_CONFIG = Object.freeze({
-  groupUrl: '',       // z. B. https://groups.google.com/g/...
-  playTestUrl: '',    // Der Opt-in-Link aus der Google Play Console
-  contactEmail: '',   // Öffentliche Kontaktadresse, z. B. kontakt@example.de
+  groupUrl: 'https://groups.google.com/g/DEIN-GRUPPENNAME',
+  playTestUrl: 'https://play.google.com/apps/testing/com.earnyourdoomscroll',
+  contactEmail: 'support@earnyourdoomscroll.de',
 });
